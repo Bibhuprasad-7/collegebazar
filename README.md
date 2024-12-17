@@ -1,1 +1,1 @@
-# collegebazar
+# college-bazar
